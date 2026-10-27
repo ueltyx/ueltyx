@@ -1,4 +1,4 @@
-# Hey, I'm ueltyx 
+# Hey, I'm choug 
 
 Linux tinkerer, self-hoster, and code-curious. I run Arch/Omarchy on my
 desktop, keep a media stack humming on a Debian box, and write Python to glue
