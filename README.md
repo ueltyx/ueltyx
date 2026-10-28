@@ -26,6 +26,15 @@ it all together.
       <br />
       <sub>October 27, 2026 · <a href="https://www.boot.dev/certificates/b44dbc7f-2d4d-4d46-927b-d778b719048a">verify</a></sub>
     </td>
+    <td align="center" width="260" valign="top">
+      <a href="https://www.boot.dev/certificates/b845a655-9fa2-472f-8014-8b138a763284">
+        <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/b845a655-9fa2-472f-8014-8b138a763284.jpeg?v=1793155408" width="240" alt="Boot.dev Build a BookBot in Python certificate" />
+      </a>
+      <br />
+      <sub><b>Boot.dev</b> — Build a BookBot in Python</sub>
+      <br />
+      <sub>October 28, 2026 · <a href="https://www.boot.dev/certificates/b845a655-9fa2-472f-8014-8b138a763284">verify</a></sub>
+    </td>
   </tr>
 </table>
 
@@ -37,3 +46,6 @@ Covered:
 - **Learn Linux** — Linux command line, shell scripting basics, file system
   management, user permissions &amp; security, I/O redirection &amp; piping,
   process management, package management, and terminal environments.
+- **Build a BookBot in Python** — reading files, string processing, counting
+  words with dictionaries, sorting and formatting results, CLI arguments, and
+  organizing a small project into functions.
